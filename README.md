@@ -1,5 +1,3 @@
-# loop mediated isothermal amplification (LAMP)
-
 Loop mediated isothermal amplification (LAMP) is one of the most popular isothermal DNA
 amplification techniques for research and commercial applications, enabling amplification of
 both DNA and RNA (with the assistance of reverse transcriptase). The LAMP mechanism is
@@ -20,3 +18,9 @@ length products are formed, it is the smaller length recycle amplicons that cont
 towards the exponential increase in the amount of double stranded DNA. Prediction of
 concentration of different types of LAMP amplicons will also contribute substantially towards
 informing design of probe-based assays.
+
+
+For more information on the method of modelling please refer to the following paper 
+
+N. Kaur, N. Thota, B.J. Toley, A stoichiometric and pseudo kinetic model of loop
+mediated isothermal amplification, Computational and Structural Biotechnology Journal (2020), doi: https://doi.org/10.1016/j.csbj.2020.08.020
